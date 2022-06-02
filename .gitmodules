@@ -1,0 +1,3 @@
+[submodule "subpro"]
+	path = subpro
+	url = https://github.com/takiucity/subpro.git
